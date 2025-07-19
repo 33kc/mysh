@@ -1,0 +1,5 @@
+mysh
+*.o
+*.out
+workflow.txt
+.mysh_history.txt
